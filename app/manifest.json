@@ -1,7 +1,7 @@
 {
-  "short_name": "QR Scanner",
-  "name": "QR Code Scanner",
-  "description": "QR code scanner progressive web application",
+  "short_name": "Brawta Living Scanner",
+  "name": "Brawta Living Scanner",
+  "description": "Brawta Living's Merchant QR code scanner for scanning coupons",
   "display": "standalone",
   "orientation": "portrait",
   "icons": [
